@@ -1,2 +1,1 @@
-# MyCV.github.io
-My Cv
+# CV
